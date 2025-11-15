@@ -9,7 +9,7 @@
 
 
 ### ⌨️ Projects I have worked on:
-  [Availability Demographic:](https://github.com/Rose-Petals/TOL-1B)
+  [Morning Availability Demographic:](https://github.com/Rose-Petals/TOL-1B)
   
 ● Making ML models to determine the demographic most likely to book a morning appointment at Tree of Life Counceling Center
 
