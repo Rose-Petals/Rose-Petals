@@ -10,12 +10,15 @@
 
 ### ⌨️ Projects I have worked on:
   [Availability Demographic:](https://github.com/Rose-Petals/TOL-1B)
+  
 ● Making ML models to determine the demographic most likely to book a morning appointment at Tree of Life Counceling Center
+
 ● Models: Logistic Regression, Gradient Boost, Random Forest Trees
 
   [Confident:](https://devpost.com/software/confident-insurance)
   
 ● A hackthon game, CONfident, intending to teach the consequences of not reading fine print in the form of an interactive insurance scam.
+
 ● Skills: Python, PyGame, Pixel Art 
       
 [SquirrelSpace:](https://devpost.com/software/michael-manders-big-fun-time)    
