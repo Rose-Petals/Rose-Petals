@@ -9,6 +9,7 @@
 
 
 ### ⌨️ Projects I have worked on:
+  [Availability Demographic (Machine Learning Models):] (https://github.com/Rose-Petals/TOL-1B)
   [Confident:](https://devpost.com/software/confident-insurance)
   
 ● A hackthon game, CONfident, intending to teach the consequences of not reading fine print in the form of an interactive insurance scam.
