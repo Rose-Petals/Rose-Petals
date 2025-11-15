@@ -9,7 +9,7 @@
 
 
 ### ⌨️ Projects I have worked on:
-  [Availability Demographic (Machine Learning Models):] (https://github.com/Rose-Petals/TOL-1B)
+  [Availability Demographic:](https://github.com/Rose-Petals/TOL-1B)
 ● Making ML models to determine the demographic most likely to book a morning appointment at Tree of Life Counceling Center
 ● Models: Logistic Regression, Gradient Boost, Random Forest Trees
 
