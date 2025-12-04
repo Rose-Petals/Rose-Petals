@@ -12,6 +12,7 @@
   [Morning Availability Demographic:](https://github.com/Rose-Petals/TOL-1B)
   
 ● Making ML models to determine the demographic most likely to book a morning appointment at Tree of Life Counceling Center
+● Used python to clean and visualize data, determine features affecting label, and implemented various models to get a good label prediction accuracy.
 
 ● Models: Logistic Regression, Gradient Boost, Random Forest Trees
 
