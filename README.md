@@ -21,6 +21,12 @@
 ● A hackthon game, CONfident, intending to teach the consequences of not reading fine print in the form of an interactive insurance scam.
 
 ● Skills: Python, PyGame, Pixel Art 
+
+[Animal Shelter Website:https://github.com/vukay/animalshelter-team8].
+
+● A functional website made for my Database class. 
+
+● Skills: SQL, HTML, Javascript, Php, Xaamp, Apache
       
 [SquirrelSpace:](https://devpost.com/software/michael-manders-big-fun-time)    
 
