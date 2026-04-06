@@ -22,7 +22,7 @@
 
 ● Skills: Python, PyGame, Pixel Art 
 
-[Animal Shelter Website:https://github.com/vukay/animalshelter-team8].
+[Animal Shelter Website:](https://github.com/vukay/animalshelter-team8).
 
 ● A functional website made for my Database class. 
 
