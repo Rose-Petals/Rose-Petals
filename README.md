@@ -9,6 +9,13 @@
 
 
 ### ⌨️ Projects I have worked on:
+  [MCDI Calculation and Report Generation:](https://github.com/UTDallasEPICS/center-for-children-and-families-speech-screening)
+ ● Contributed to a web-based tool for automating MCDI score calculation and report generation for child speech screening programs.
+ ● Implemented logic for processing assessment inputs, calculating language development metrics, and generating formatted reports for clinicians and researchers.
+ ● Helped improve workflow efficiency and reduce manual scoring overhead for developmental screening operations by 40%.
+
+ ● Skills: Nuxt, Vue.js, Prisma, OAuth
+  
   [Morning Availability Demographic:](https://github.com/Rose-Petals/TOL-1B)
   
 ● Making ML models to determine the demographic most likely to book a morning appointment at Tree of Life Counceling Center
